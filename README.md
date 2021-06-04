@@ -26,6 +26,6 @@ The order is as follows.
 |![Original_Document](https://user-images.githubusercontent.com/53552847/120768675-60b17000-c557-11eb-8fb9-da536b45f63c.png)|![Drawing_Document](https://user-images.githubusercontent.com/53552847/120768683-61e29d00-c557-11eb-81df-60cb5c20cc0f.png)|
 
 **Note :** In this Notebook, The focus is on appraisal reports. so if you want to apply the above method to your documents, you have to modify the code and use it.  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Input Demo Link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SHQQ3WWO90cKSwJAAbvld641S-ouRg1b#scrollTo=2qc2CPkXKh4t)
 
-Please check [hear]() for an explanation of OpenCV.
+Please check [hear](Uploaded soon) for an explanation of OpenCV.
