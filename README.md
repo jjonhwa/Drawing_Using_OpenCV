@@ -14,7 +14,7 @@ Therefore, in order to create a cell form on a table that is different from the 
 We obtain the coordinates of the drawn lines and draw them on the original table to form the table we commonly know.
 
 ## Course
-All the processes were carried out in Korab. (CPU)  
+All the processes were carried out in Colab. (CPU)  
 
 The order is as follows.
 **Image scale** > **Cut Image** > **Search max, min Location x** > **Remove vertical line and horizontal line** > **Dilate** > **Erode** >  **Find location**
