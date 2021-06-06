@@ -14,7 +14,7 @@ Therefore, in order to create a cell form on a table that is different from the 
 We obtain the coordinates of the drawn lines and draw them on the original table to form the table we commonly know.
 
 ## Course
-All the processes were carried out in Colab. (CPU) 
+All the processes were carried out in Colab. (CPU)  
 **Note:** cv2.imshow has been changed from Colab to cv2_imshow. If you don't use it in Colab, please modify the code and use it.
 
 The order is as follows.
