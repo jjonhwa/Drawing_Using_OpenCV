@@ -29,4 +29,4 @@ The order is as follows.
 **Note :** In this Notebook, The focus is on appraisal reports. so if you want to apply the above method to your documents, you have to modify the code and use it.  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SHQQ3WWO90cKSwJAAbvld641S-ouRg1b#scrollTo=2qc2CPkXKh4t)
 
-Please check [hear](Uploaded soon) for an explanation of OpenCV.
+Please check [Code_Review](https://jjonhwa.github.io/2021-06-07-Code_Review/) & [Code Explanation](https://jjonhwa.github.io/2021-06-06-Code_Explanation/) for an explanation of OpenCV.
